@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhumi Gupta
 ===================================================================================================================================
 
-I am a driven college student currently pursuing a B.Tech in Computer Science specializing in Artificial Intelligence. I possess a fervent enthusiasm for exploring the synergy between technology and AI, with a keen desire to continuously learn, evolve, and make meaningful contributions to the tech landscape. Proficient in Python, CSS, HTML, and JavaScript, I am poised to embark on a journey of innovation and discovery.
+I am a driven college student currently pursuing a B.Tech in Computer Science specializing in Artificial Intelligence. I possess a fervent enthusiasm for exploring the synergy between technology and AI, with a keen desire to continuously learn, evolve, and make meaningful contributions to the tech landscape. Proficient in Python, CSS, HTML, Node.js and JavaScript, I am poised to embark on a journey of innovation and discovery.
 
 * 🌍  I'm based in India
 
